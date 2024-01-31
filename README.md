@@ -1,7 +1,7 @@
-##Hello! I'm Wilson 👋
-###iOS Engineer and Physical Therapist
+## Hello! I'm Wilson 👋
+### iOS Engineer and Physical Therapist
 
-##About Me
+## About Me
  🌱 Currently looking for an iOS engineering position where I can learn and grow!
  
  ♥️ 💪 I am passionate about health and fitness technologies.
