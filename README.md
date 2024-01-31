@@ -1,10 +1,10 @@
-- Hello! I'm Wilson 👋
-- iOS Engineer and Physical Therapist
+Hello! I'm Wilson 👋
+iOS Engineer and Physical Therapist
 
 About Me
-- Currently looking for an iOS engineering position where I can learn and grow!
-- I am passionate about health and fitness technologies.
-- How to reach me: wilsonckmchan@gmail.com
+ 🌱 Currently looking for an iOS engineering position where I can learn and grow!
+ ♥️ 💪 I am passionate about health and fitness technologies.
+ ✉️ How to reach me: wilsonckmchan@gmail.com
 
 - [Personal Website](https://wilsonckmchan.com/) | [linkedin] (https://www.linkedin.com/in/wilsonckmchan/)
 
